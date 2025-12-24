@@ -46,7 +46,7 @@ My work sits at the intersection of:
 - 🔎 Open-source contributions (issues, PRs, reviews)
 
 ## 🌍 Professional Links
-- LinkedIn: [add link]
+- LinkedIn: www.linkedin.com/in/opeyemi-sadiku-514094327
 - Portfolio: [add link]
 - Google Scholar: (to be added)
 
