@@ -17,37 +17,50 @@ Here are some ideas to get you started:
 
 # Ope Sadiku
 
-Data Analyst | Applied Data Science | Explainable AI | Research-Oriented Analytics
+Independent Quantitative Researcher | Applied Data Scientist | Educator
 
-I am a data professional with 5+ years of experience delivering analytics, decision support, and data-driven insights across public sector, consulting, and independent research projects.
+Independent Quantitative Researcher working on distribution theory and distributionally robust optimization (DRO) with applications to decision support systems and natural language processing.
 
-My work sits at the intersection of:
-- Data Analytics & Analytics Engineering
-- Applied Machine Learning
-- Explainable AI (XAI) & Responsible AI
-- Research Reproducibility & Open Science
+My research explores how uncertainty in data distributions affects model reliability and how distributionally robust methods can be used to design algorithms that remain stable under distribution shift.
+
+This GitHub serves as a research laboratory and technical archive where I develop and document:
+
+implementations of distributionally robust optimization algorithms
+experiments on distribution shift and model stability
+research prototypes for risk-ranking and decision support engines
+applied experiments in NLP under uncertain data regimes
+mathematical explorations related to statistical distributions and robust learning
+
+## Primary interests include:
+
+Distribution Theory
+Distributionally Robust Optimization (DRO)
+Statistical Learning under Distribution Shift
+Decision Support Systems (DSS)
+Natural Language Processing (NLP)
+
+The goal is to translate theoretical research into reproducible computational experiments and deployable decision frameworks.
 
 ## 🔍 Core Technical Skills
-- **Languages:** Python, SQL
-- **Data & ML:** pandas, NumPy, scikit-learn, PyTorch
-- **Visualization:** Power BI, Tableau, Plotly, Matplotlib
-- **Databases:** MySQL, PostgreSQL
-- **Research & MLOps:** Git, GitHub, Jupyter, reproducible workflows
-
-## 🧠 Current Focus (2025–2026)
-- Contributing to open-source data science and ML projects
-- Building research-grade, reproducible analytics pipelines
-- Explainable AI for decision support systems
-- Preparing for advanced postgraduate research (MRes / MSc / PhD track)
+- **Data Science and Machine Learning** | Python (pandas, numpy, sklearn, PyTorch), supervised/unsupervised learning, model evaluation, XAI
+- **NLP** | Hugging Face Transformers, NLTK, tokenisation, sentiment analysis, basic fine-tuning
+- **Visualization** | Power BI (DAX, Power Query), Matplotlib, Seaborn, Plotly, Excel
+- **Databases** MySQL (analytical queries, data extraction)
+- **Tools & MLOps** | Commitment to reproducible research: Git, Jupyter notebook, Streamlit, reproducible workflows, documented experiments, open outputs REST APIs.
+- **Research** | Experimental design, statistical inference, regression analysis, simulation studies
 
 ## 🏗️ Selected Work
-- 📊 Analytics & ML projects: see pinned repositories below
-- 🧪 Research notebooks with documented methodologies
-- 🔎 Open-source contributions (issues, PRs, reviews)
+- **Low-Resource NLP Experiments:** Systematic comparison of classical vs. transformer models on Hausa sentiment and Yoruba NER under controlled data constraints | Efficiency trade-off experiment comparing classical, neural, and transformer models under low-resource conditions (500 training examples)
+- **Micro AI for Market Vendors:** Lightweight, multilingual, conversational AI prototype for Nigerian English, Pidgin and Yoruba languages. Demonstrates real-world, low-resource language challenges.
+- **Sentiment Analysis on 75,000+ Social Media Comments:** End-to-end NLP pipeline for social media sentiment classification
+- **Predicting Bank Term Deposit Subscription Using Decision Trees:** End-to-end ML pipeline on bank term deposit subscription using decision trees
+- **Distributionally Robust Optimisation Simulation Experiments:** Systematic comparison of classical vs. robust  regression estimators under controlled distribution constraints
 
 ## 🌍 Professional Links
-- LinkedIn: www.linkedin.com/in/opeyemi-sadiku-514094327
-- Portfolio: [add link]
-- Google Scholar: (to be added)
+- **LinkedIn:** www.linkedin.com/in/opeyemi-sadiku-514094327
+- **DataCamp:**
+- **Google Scholar:**
+- **Medium:**
+- **ArXiv:**
 
 > I value clarity, reproducibility, and collaboration in data science.
