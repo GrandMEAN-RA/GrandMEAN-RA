@@ -25,19 +25,19 @@ My research explores how uncertainty in data distributions affects model reliabi
 
 This GitHub serves as a research laboratory and technical archive where I develop and document:
 
-implementations of distributionally robust optimization algorithms
-experiments on distribution shift and model stability
-research prototypes for risk-ranking and decision support engines
-applied experiments in NLP under uncertain data regimes
-mathematical explorations related to statistical distributions and robust learning
+- implementations of distributionally robust optimization algorithms
+- experiments on distribution shift and model stability
+- research prototypes for risk-ranking and decision support engines
+- applied experiments in NLP under uncertain data regimes
+- mathematical explorations related to statistical distributions and robust learning
 
 ## Primary interests include:
 
-Distribution Theory
-Distributionally Robust Optimization (DRO)
-Statistical Learning under Distribution Shift
-Decision Support Systems (DSS)
-Natural Language Processing (NLP)
+- Distribution Theory
+- Distributionally Robust Optimization (DRO)
+- Statistical Learning under Distribution Shift
+- Decision Support Systems (DSS)
+- Natural Language Processing (NLP)
 
 The goal is to translate theoretical research into reproducible computational experiments and deployable decision frameworks.
 
