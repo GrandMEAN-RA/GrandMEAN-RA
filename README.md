@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Ope Sadiku
 
-Independent Quantitative Researcher | Applied Data Scientist | Educator
+Quantitative Researcher | Applied Data Scientist | Educator
 
 Independent Quantitative Researcher working on distribution theory and distributionally robust optimization (DRO) with applications to decision support systems and natural language processing.
 
