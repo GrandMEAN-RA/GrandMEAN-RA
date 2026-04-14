@@ -37,6 +37,7 @@ This GitHub serves as a research laboratory and technical archive where I develo
 - Distributionally Robust Optimization (DRO)
 - Statistical Learning under Distribution Shift
 - Decision Support Systems (DSS)
+- Applied Machine Learning
 - Natural Language Processing (NLP)
 
 The goal is to translate theoretical research into reproducible computational experiments and deployable decision frameworks.
